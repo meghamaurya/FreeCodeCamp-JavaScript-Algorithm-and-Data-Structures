@@ -1,2 +1,4 @@
-# js-basic1
-basics of js
+# freeCodeCamp
+## JavaScript Algorithms and Data Structures
+
+Basics of Javascript
