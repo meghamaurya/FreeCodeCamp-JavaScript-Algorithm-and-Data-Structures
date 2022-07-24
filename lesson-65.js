@@ -3,7 +3,7 @@ function testGreaterThan(val) {
         return "Over 100";
     }
 
-    if (val > 9) {  // Change this line
+    if (val > 10) {  // Change this line
         return "Over 10";
     }
 
